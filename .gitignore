@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp/backup
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# WoW caches / logs (never needed in repo)
+Cache/
+Logs/
+
+# User-specific settings not meant for distribution
+WTF/

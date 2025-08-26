@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Epoch Addon Manager
+## Notes: Simple Addon toggle menu
+## Author: Supplied
+## Version: 1.4.0
+
+EpochAddonManager.lua
