@@ -45,7 +45,7 @@ Also try `/eam` to open the manager directly.
 - See [`SECURITY.md`](SECURITY.md) for reporting procedures.
 
 ## License
-This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE.MIT) for details.
+This project is licensed under the **MIT License**. See [`LICENSE`](.LICENSE.MIT) for details.
 
 ## Credits
 - Author: **Supplied**  
